@@ -1,0 +1,1331 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.4)  13 JAN 2020 12:57
+entering extended mode
+**./SPPS.tex
+(SPPS.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.
+cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.c
+lo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc
+.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\cp12
+51.def"
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.sty"
+Package: babel 2019/09/27 3.34 The Babel package
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switc
+h.def"
+File: switch.def 2019/09/27 3.34 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts
+.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english
+\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.def"
+File: babel.def 2019/09/27 3.34 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtba
+bel.def")
+\bbl@dirlevel=\count89
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian
+\russianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2ae
+nc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.d
+fu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fanc
+yhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+) (newprog1e.sty
+Document Style `newprog1e' <15 Jan 11> for new version our journal,
+made from `newprog1' <22 Apr 95> for new version our journal,
+made from `article' international version <17 Oct 89>.
+\rulelength=\skip52
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsf
+onts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsma
+th.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amste
+xt.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsge
+n.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbs
+y.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsop
+n.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks18
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amss
+ymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm
+.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks27
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subca
+ption.sty"
+Package: subcaption 2019/09/01 v1.3a Sub-captions (AR)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capti
+on.sty"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capti
+on3.sty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@
+tempboxa \hbox {#1} \ifdim \wd \@tempboxa >\hsize #1\par \else \hbox to\hsize {
+\hfil \box \@tempboxa \hfil } \fi .
+\c@caption@flags=\count102
+\c@ContinuedFloat=\count103
+)
+\c@subfigure=\count104
+\c@subtable=\count105
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\bli
+ndtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.
+sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count106
+\c@Blindtext=\count107
+\c@blind@countparstart=\count108
+\blind@countxx=\count109
+\blindtext@numBlindtext=\count110
+\blind@countyy=\count111
+\c@blindlist=\count112
+\c@blindlistlevel=\count113
+\c@blindlist@level=\count114
+\blind@listitem=\count115
+\c@blind@listcount=\count116
+\c@blind@levelcount=\count117
+\blind@mathformula=\count118
+\blind@Mathformula=\count119
+\c@blind@randomcount=\count120
+\c@blind@randommax=\count121
+\c@blind@pangramcount=\count122
+\c@blind@pangrammax=\count123
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\colo
+r.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/soul\soul.sty
+"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks29
+\SOUL@lasttoken=\toks30
+\SOUL@cmds=\toks31
+\SOUL@buffer=\toks32
+\SOUL@token=\toks33
+\SOUL@spaceskip=\skip59
+\SOUL@ttwidth=\dimen122
+\SOUL@uldp=\dimen123
+\SOUL@ulht=\dimen124
+)
+\c@theorem=\count124
+\c@definition=\count125
+\c@theorem_ru=\count126
+ (SPPS.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 11.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2ac
+mr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `SPPS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen125
+\scratchbox=\box29
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen126
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks35
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epst
+opdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\in
+fwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfe
+xt.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kv
+definekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\lt
+xcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvop
+tions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kv
+setkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\et
+excmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\if
+luatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pd
+ftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\if
+pdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\rublength=\skip60
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa
+.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb
+.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+
+("C:\Users\Viacheslav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.f
+d"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 50.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1{C:/Users/Viacheslav/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+
+]
+Underfull \hbox (badness 2951) in paragraph at lines 60--61
+\T2A/cmr/m/n/10.95 на ос-но-ве рас-про-стра-не-ния су-пер-пик-се-лей с
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 60--61
+\T2A/cmr/m/n/10.95 ди-на-ми-че-ски из-ме-ня-ю-щим-ся раз-ме-ром. Кон-
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 68--69
+[]\T2A/cmr/m/n/10.95 Одна из из-вест-ных мо-ди-фи-ка-ций ме-то-да
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 68--69
+\T2A/cmr/m/n/10.95 в клас-си-че-ском ва-ри-ан-те ме-то-да. На ос-но-ве
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 68--69
+\T2A/cmr/m/n/10.95 мор-фо-ло-ги-че-ской мас-ки ав-то-ма-ти-че-ски осу-
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 68--69
+\T2A/cmr/m/n/10.95 ществ-лял-ся по-иск на-чаль-ной точ-ки об-ла-сти
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 68--69
+\T2A/cmr/m/n/10.95 при-ме-ня-лись и дру-ги-ми ав-то-ра-ми, поз-во-ляя
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 68--69
+\T2A/cmr/m/n/10.95 пе-рей-ти из до-ме-на по-лу-ав-то-ма-ти-че-ской сег-
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 74--75
+[]\T2A/cmr/m/n/10.95 Другим на-прав-ле-ни-ем в ис-сле-до-ва-ни-ях по
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 су-пер-пик-се-ля с по-дроб-ным опи-са-ни-ем су-ти
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 при-зна-ку или груп-пе при-зна-ков. Ос-нов-ным
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 от эле-мен-тар-ных со-став-ля-ю-щих изоб-ра-же-ний
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 фор-ми-ро-ва-нии су-пер-пик-се-ля. Та-кое огра-ни-
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 че-ние не поз-во-ля-ет по-лу-чить зна-чи-тель-ных
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 ме-то-да. Са-мым рас-про-стра-нен-ным ме-то-дом
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 [[], [], []]. Де-таль-ное опи-са-ние пе-ре-хо-да в
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 до-мен су-пер-пик-се-лей пред-став-ле-но в ра-бо-те
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 сег-мен-та-цию на ос-но-ве су-пер-пик-се-лей с ис-
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 про-стран-ства при-зна-ков. Под-ход на ос-но-ве
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 на сег-мен-та-цию изоб-ра-же-ний раз-ре-ше-ни-ем
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 74--75
+\T2A/cmr/m/n/10.95 1347$\OMS/cmsy/m/n/10.95 $\T2A/cmr/m/n/10.95 1042 и 3701$\O
+MS/cmsy/m/n/10.95 $\T2A/cmr/m/n/10.95 3301 пик-се-лей, со-ста-ви-ло
+ []
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images_rus/fig_1a.png, id=27, 1003.75pt x 1003.75pt>
+File: ./images_rus/fig_1a.png Graphic file (type png)
+<use ./images_rus/fig_1a.png>
+Package pdftex.def Info: ./images_rus/fig_1a.png  used on input line 87.
+(pdftex.def)             Requested size: 118.50705pt x 118.49966pt.
+
+Underfull \hbox (badness 1484) in paragraph at lines 88--88
+[]\T2A/cmr/m/n/10 (a) |МРТ серд-ца (на-бор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\T2A/cmr/m/n/10 дан-ных Уни-вер-си-те-та
+ []
+
+<./images_rus/fig_1b.png, id=29, 1003.75pt x 1003.75pt>
+File: ./images_rus/fig_1b.png Graphic file (type png)
+<use ./images_rus/fig_1b.png>
+Package pdftex.def Info: ./images_rus/fig_1b.png  used on input line 91.
+(pdftex.def)             Requested size: 118.50705pt x 118.49966pt.
+[3 <./images_rus/fig_1a.png> <./images_rus/fig_1b.png>]
+Underfull \hbox (badness 1199) in paragraph at lines 102--103
+[]\T2A/cmr/m/n/10.95 Метод вы-ра-щи-ва-ния ре-ги-о-нов по-стро-ен по
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 102--103
+\T2A/cmr/m/n/10.95 В клас-си-че-ской ре-а-ли-за-ции ал-го-рит-ма усло-
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 102--103
+\T2A/cmr/m/n/10.95 ви-ем од-но-род-но-сти яв-ля-ет-ся от-кло-не-ние по
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 102--103
+\T2A/cmr/m/n/10.95 яр-ко-сти меж-ду со-сед-ни-ми пик-се-ля-ми. При
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 102--103
+\T2A/cmr/m/n/10.95 удо-вле-тво-ря-ют кри-те-ри-ям $\OT1/cmr/m/n/10.95 4\OMS/cms
+y/m/n/10.95  $\T2A/cmr/m/n/10.95 связности или
+ []
+
+<./images_rus/fig_2.png, id=36, 354.32375pt x 324.21124pt>
+File: ./images_rus/fig_2.png Graphic file (type png)
+<use ./images_rus/fig_2.png>
+Package pdftex.def Info: ./images_rus/fig_2.png  used on input line 108.
+(pdftex.def)             Requested size: 133.01736pt x 121.71248pt.
+
+Underfull \hbox (badness 4279) in paragraph at lines 113--114
+[]\T2A/cmr/m/n/10.95 Функция од-но-род-но-сти со-сед-них пик-се-лей
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 124--125
+\T2A/cmr/m/n/10.95 про-стра-не-ния су-пер-пик-се-лей (SPPS, сокр. от
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\T2A/cmr/m/n/10.95 тье ис-поль-зу-ет-ся стан-дарт-ное опре-де-ле-ние
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 124--125
+\T2A/cmr/m/n/10.95 усло-ви-ем од-но-род-но-сти. Пик-се-ли счи-та-ют-ся
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 124--125
+\T2A/cmr/m/n/10.95 свя-зан-ны-ми, ес-ли удо-вле-тво-ря-ют кри-те-ри-ям
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 124--125
+\T2A/cmr/m/n/10.95 Ито-го-вый кон-тур фор-ми-ру-ет-ся по-сред-ством
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\T2A/cmr/m/n/10.95 сплай-на Эр-ми-та. Пред-ло-жен-ный ал-го-ритм
+ []
+
+<./images_rus/fig_3.png, id=37, 684.5575pt x 383.4325pt>
+File: ./images_rus/fig_3.png Graphic file (type png)
+<use ./images_rus/fig_3.png>
+Package pdftex.def Info: ./images_rus/fig_3.png  used on input line 128.
+(pdftex.def)             Requested size: 241.84842pt x 135.46129pt.
+[4 <./images_rus/fig_2.png> <./images_rus/fig_3.png>]
+<./images_rus/fig_4a.png, id=45, 513.92pt x 513.92pt>
+File: ./images_rus/fig_4a.png Graphic file (type png)
+<use ./images_rus/fig_4a.png>
+Package pdftex.def Info: ./images_rus/fig_4a.png  used on input line 138.
+(pdftex.def)             Requested size: 118.50705pt x 118.50493pt.
+<./images_rus/fig_4b.png, id=46, 513.92pt x 513.92pt>
+File: ./images_rus/fig_4b.png Graphic file (type png)
+<use ./images_rus/fig_4b.png>
+Package pdftex.def Info: ./images_rus/fig_4b.png  used on input line 142.
+(pdftex.def)             Requested size: 118.50705pt x 118.50493pt.
+<./images_rus/fig_4c.png, id=47, 513.92pt x 513.92pt>
+File: ./images_rus/fig_4c.png Graphic file (type png)
+<use ./images_rus/fig_4c.png>
+Package pdftex.def Info: ./images_rus/fig_4c.png  used on input line 147.
+(pdftex.def)             Requested size: 118.50705pt x 118.50493pt.
+
+Underfull \hbox (badness 1931) in paragraph at lines 148--148
+[]\T2A/cmr/m/n/10 (c) |Рас-про-стра-не-ние су-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T2A/cmr/m/n/10 пер-пик-се-лей на-чаль-но-го
+ []
+
+<./images_rus/fig_4d.png, id=48, 513.92pt x 513.92pt>
+File: ./images_rus/fig_4d.png Graphic file (type png)
+<use ./images_rus/fig_4d.png>
+Package pdftex.def Info: ./images_rus/fig_4d.png  used on input line 151.
+(pdftex.def)             Requested size: 118.50705pt x 118.50493pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (5.8089pt too wide) detected at line 178
+\OML/cmm/m/it/10.95 tan  [] \OT1/cmr/m/n/10.95 = [] \OMS/cmsy/m/n/10.95   \OML
+/cmm/m/it/10.95 Slope
+ []
+
+[5 <./images_rus/fig_4a.png> <./images_rus/fig_4b.png> <./images_rus/fig_4c.png
+> <./images_rus/fig_4d.png>]
+<./images_rus/fig_5.png, id=57, 250.9375pt x 250.9375pt>
+File: ./images_rus/fig_5.png Graphic file (type png)
+<use ./images_rus/fig_5.png>
+Package pdftex.def Info: ./images_rus/fig_5.png  used on input line 189.
+(pdftex.def)             Requested size: 193.47946pt x 193.4905pt.
+<./images_rus/fig_6.png, id=58, 513.92pt x 513.92pt>
+File: ./images_rus/fig_6.png Graphic file (type png)
+<use ./images_rus/fig_6.png>
+Package pdftex.def Info: ./images_rus/fig_6.png  used on input line 196.
+(pdftex.def)             Requested size: 193.47946pt x 193.48016pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./images_rus/fig_5.png> <./images_rus/fig_6.png>]
+<./images_rus/fig_7.png, id=64, 513.92pt x 513.92pt>
+File: ./images_rus/fig_7.png Graphic file (type png)
+<use ./images_rus/fig_7.png>
+Package pdftex.def Info: ./images_rus/fig_7.png  used on input line 219.
+(pdftex.def)             Requested size: 193.47946pt x 193.48016pt.
+<./images_rus/fig_8.png, id=65, 513.92pt x 513.92pt>
+File: ./images_rus/fig_8.png Graphic file (type png)
+<use ./images_rus/fig_8.png>
+Package pdftex.def Info: ./images_rus/fig_8.png  used on input line 226.
+(pdftex.def)             Requested size: 193.47946pt x 193.48016pt.
+ [7 <./images_rus/fig_7.png> <./images_rus/fig_8.png>]
+<./images_rus/fig_9_a_1.jpg, id=72, 519.9425pt x 519.9425pt>
+File: ./images_rus/fig_9_a_1.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_a_1.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_a_1.jpg  used on input line 267.
+(pdftex.def)             Requested size: 154.35498pt x 154.34961pt.
+<./images_rus/fig_9_b_1.jpg, id=73, 519.9425pt x 519.9425pt>
+File: ./images_rus/fig_9_b_1.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_b_1.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_b_1.jpg  used on input line 268.
+(pdftex.def)             Requested size: 154.35498pt x 154.34961pt.
+<./images_rus/fig_9_c_1.jpg, id=74, 519.9425pt x 519.9425pt>
+File: ./images_rus/fig_9_c_1.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_c_1.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_c_1.jpg  used on input line 269.
+(pdftex.def)             Requested size: 154.35498pt x 154.34961pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 260--271
+ [][] 
+ []
+
+<./images_rus/fig_9_a_2.jpg, id=75, 701.62125pt x 702.625pt>
+File: ./images_rus/fig_9_a_2.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_a_2.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_a_2.jpg  used on input line 279.
+(pdftex.def)             Requested size: 154.35498pt x 154.57797pt.
+<./images_rus/fig_9_b_2.jpg, id=76, 701.62125pt x 702.625pt>
+File: ./images_rus/fig_9_b_2.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_b_2.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_b_2.jpg  used on input line 280.
+(pdftex.def)             Requested size: 154.35498pt x 154.57797pt.
+<./images_rus/fig_9_c_2.jpg, id=77, 701.62125pt x 702.625pt>
+File: ./images_rus/fig_9_c_2.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_c_2.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_c_2.jpg  used on input line 281.
+(pdftex.def)             Requested size: 154.35498pt x 154.57797pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 272--283
+ [][] 
+ []
+
+<./images_rus/fig_9_a_3.jpg, id=78, 520.94624pt x 519.9425pt>
+File: ./images_rus/fig_9_a_3.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_a_3.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_a_3.jpg  used on input line 291.
+(pdftex.def)             Requested size: 154.35498pt x 154.05606pt.
+<./images_rus/fig_9_b_3.jpg, id=79, 520.94624pt x 519.9425pt>
+File: ./images_rus/fig_9_b_3.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_b_3.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_b_3.jpg  used on input line 292.
+(pdftex.def)             Requested size: 154.35498pt x 154.05606pt.
+<./images_rus/fig_9_c_3.jpg, id=80, 520.94624pt x 519.9425pt>
+File: ./images_rus/fig_9_c_3.jpg Graphic file (type jpg)
+<use ./images_rus/fig_9_c_3.jpg>
+Package pdftex.def Info: ./images_rus/fig_9_c_3.jpg  used on input line 293.
+(pdftex.def)             Requested size: 154.35498pt x 154.05606pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 284--295
+ [][] 
+ []
+
+<./images_rus/fig_10.png, id=81, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_10.png Graphic file (type png)
+<use ./images_rus/fig_10.png>
+Package pdftex.def Info: ./images_rus/fig_10.png  used on input line 303.
+(pdftex.def)             Requested size: 241.84842pt x 241.83307pt.
+
+Overfull \hbox (5.95813pt too wide) in paragraph at lines 312--320
+[][] 
+ []
+
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./images_rus/fig_9_a_1.jpg> <./images_rus/fig_9_b_1.jpg> <./images_rus/fig
+_9_c_1.jpg> <./images_rus/fig_9_a_2.jpg> <./images_rus/fig_9_b_2.jpg> <./images
+_rus/fig_9_c_2.jpg> <./images_rus/fig_9_a_3.jpg> <./images_rus/fig_9_b_3.jpg> <
+./images_rus/fig_9_c_3.jpg>]
+<./images_rus/fig_11.png, id=89, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_11.png Graphic file (type png)
+<use ./images_rus/fig_11.png>
+Package pdftex.def Info: ./images_rus/fig_11.png  used on input line 328.
+(pdftex.def)             Requested size: 241.84842pt x 241.83307pt.
+<./images_rus/fig_12_a_1.jpg, id=90, 821.0675pt x 821.0675pt>
+File: ./images_rus/fig_12_a_1.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_a_1.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_a_1.jpg  used on input line 348.
+(pdftex.def)             Requested size: 154.35498pt x 154.3507pt.
+<./images_rus/fig_12_b_1.jpg, id=91, 821.0675pt x 821.0675pt>
+File: ./images_rus/fig_12_b_1.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_b_1.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_b_1.jpg  used on input line 349.
+(pdftex.def)             Requested size: 154.35498pt x 154.3507pt.
+<./images_rus/fig_12_c_1.jpg, id=92, 821.0675pt x 821.0675pt>
+File: ./images_rus/fig_12_c_1.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_c_1.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_c_1.jpg  used on input line 350.
+(pdftex.def)             Requested size: 154.35498pt x 154.3507pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 341--352
+ [][] 
+ []
+
+<./images_rus/fig_12_a_2.jpg, id=93, 646.415pt x 647.41875pt>
+File: ./images_rus/fig_12_a_2.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_a_2.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_a_2.jpg  used on input line 360.
+(pdftex.def)             Requested size: 154.35498pt x 154.59337pt.
+<./images_rus/fig_12_b_2.jpg, id=94, 646.415pt x 647.41875pt>
+File: ./images_rus/fig_12_b_2.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_b_2.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_b_2.jpg  used on input line 361.
+(pdftex.def)             Requested size: 154.35498pt x 154.59337pt.
+<./images_rus/fig_12_c_2.jpg, id=95, 646.415pt x 647.41875pt>
+File: ./images_rus/fig_12_c_2.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_c_2.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_c_2.jpg  used on input line 362.
+(pdftex.def)             Requested size: 154.35498pt x 154.59337pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 353--364
+ [][] 
+ []
+
+<./images_rus/fig_12_a_3.jpg, id=96, 721.69624pt x 721.69624pt>
+File: ./images_rus/fig_12_a_3.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_a_3.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_a_3.jpg  used on input line 372.
+(pdftex.def)             Requested size: 154.35498pt x 154.34676pt.
+<./images_rus/fig_12_b_3.jpg, id=97, 721.69624pt x 721.69624pt>
+File: ./images_rus/fig_12_b_3.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_b_3.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_b_3.jpg  used on input line 373.
+(pdftex.def)             Requested size: 154.35498pt x 154.34676pt.
+<./images_rus/fig_12_c_3.jpg, id=98, 721.69624pt x 721.69624pt>
+File: ./images_rus/fig_12_c_3.jpg Graphic file (type jpg)
+<use ./images_rus/fig_12_c_3.jpg>
+Package pdftex.def Info: ./images_rus/fig_12_c_3.jpg  used on input line 374.
+(pdftex.def)             Requested size: 154.35498pt x 154.34676pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 365--376
+ [][] 
+ []
+
+[10 <./images_rus/fig_10.png (PNG copy)> <./images_rus/fig_11.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images_rus/fig_13.png, id=102, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_13.png Graphic file (type png)
+<use ./images_rus/fig_13.png>
+Package pdftex.def Info: ./images_rus/fig_13.png  used on input line 384.
+(pdftex.def)             Requested size: 241.84842pt x 241.83307pt.
+
+Overfull \hbox (5.95813pt too wide) in paragraph at lines 393--401
+[][] 
+ []
+
+
+Underfull \vbox (badness 2020) has occurred while \output is active []
+
+ [11 <./images_rus/fig_12_a_1.jpg> <./images_rus/fig_12_b_1.jpg> <./images_rus/
+fig_12_c_1.jpg> <./images_rus/fig_12_a_2.jpg> <./images_rus/fig_12_b_2.jpg> <./
+images_rus/fig_12_c_2.jpg> <./images_rus/fig_12_a_3.jpg> <./images_rus/fig_12_b
+_3.jpg> <./images_rus/fig_12_c_3.jpg>]
+<./images_rus/fig_14.png, id=106, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_14.png Graphic file (type png)
+<use ./images_rus/fig_14.png>
+Package pdftex.def Info: ./images_rus/fig_14.png  used on input line 407.
+(pdftex.def)             Requested size: 241.84842pt x 241.83307pt.
+<./images_rus/fig_15.jpg, id=107, 334.24875pt x 334.24875pt>
+File: ./images_rus/fig_15.jpg Graphic file (type jpg)
+<use ./images_rus/fig_15.jpg>
+Package pdftex.def Info: ./images_rus/fig_15.jpg  used on input line 416.
+(pdftex.def)             Requested size: 145.11052pt x 145.1114pt.
+
+Underfull \hbox (badness 2189) in paragraph at lines 421--422
+\T2A/cmr/m/n/10.95 стри-ро-вать раз-ни-цу во вре-ме-ни вы-пол-не-ния
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 421--422
+\T2A/cmr/m/n/10.95 щи-ва-ния ре-ги-о-нов RG и ме-то-дом ак-тив-ных
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 421--422
+\T2A/cmr/m/n/10.95 ра-же-ния раз-лич-но-го раз-ме-ра. Син-те-ти-че-ское
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 421--422
+\T2A/cmr/m/n/10.95 стри-ро-вать быст-ро-дей-ствие ме-то-дов. При-мер
+ []
+
+<./images_rus/fig_16_a.png, id=108, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_16_a.png Graphic file (type png)
+<use ./images_rus/fig_16_a.png>
+Package pdftex.def Info: ./images_rus/fig_16_a.png  used on input line 429.
+(pdftex.def)             Requested size: 154.35498pt x 154.34639pt.
+<./images_rus/fig_16_b.png, id=109, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_16_b.png Graphic file (type png)
+<use ./images_rus/fig_16_b.png>
+Package pdftex.def Info: ./images_rus/fig_16_b.png  used on input line 430.
+(pdftex.def)             Requested size: 154.35498pt x 154.34639pt.
+<./images_rus/fig_16_c.png, id=110, 1084.05pt x 1084.05pt>
+File: ./images_rus/fig_16_c.png Graphic file (type png)
+<use ./images_rus/fig_16_c.png>
+Package pdftex.def Info: ./images_rus/fig_16_c.png  used on input line 431.
+(pdftex.def)             Requested size: 154.35498pt x 154.34639pt.
+
+Overfull \hbox (4.77226pt too wide) in paragraph at lines 425--433
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./images_rus/fig_13.png (PNG copy)> <./images_rus/fig_14.png (PNG copy)> 
+<./images_rus/fig_15.jpg>]
+Underfull \hbox (badness 1057) in paragraph at lines 447--448
+[]\T2A/cmr/m/it/10.95 Huang X., Tsechpenakis G. \T2A/cmr/m/n/10.95 Medical Imag
+e
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 453--454
+[]\T2A/cmr/m/it/10.95 Pham D.L., Xu C., Prince J.L. \T2A/cmr/m/n/10.95 Current
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 456--457
+[]\T2A/cmr/m/it/10.95 Kang H.C., Lee J., Shin J. \T2A/cmr/m/n/10.95 Automatic
+ []
+
+[13 <./images_rus/fig_16_a.png (PNG copy)> <./images_rus/fig_16_b.png (PNG copy
+)> <./images_rus/fig_16_c.png (PNG copy)>]
+Underfull \hbox (badness 1845) in paragraph at lines 462--463
+[]\T2A/cmr/m/it/10.95 Oktay O. et al. \T2A/cmr/m/n/10.95 Anatomically Constrain
+ed
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 462--463
+\T2A/cmr/m/n/10.95 Neural Networks (ACNNs): Application to
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 477--478
+\T2A/cmr/m/n/10.95 Based on Square Blocks Propagation //
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+\T2A/cmr/m/n/10.95 Proceedings of the 29th International
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 486--487
+\T2A/cmr/m/n/10.95 based on region growing // 2010 2nd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
+\T2A/cmr/m/n/10.95 International Conference on Computer
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 486--487
+\T2A/cmr/m/n/10.95 Engineering and Technology. IEEE, 2010.
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 495--496
+[]\T2A/cmr/m/it/10.95 Roy S., Maji P. \T2A/cmr/m/n/10.95 A simple skull strippi
+ng
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 495--496
+\T2A/cmr/m/n/10.95 algorithm for brain MRI // 2015 Eighth
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 495--496
+\T2A/cmr/m/n/10.95 International Conference on Advances in
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 498--499
+[]\T2A/cmr/m/it/10.95 Isa N.A.M. et al. \T2A/cmr/m/n/10.95 Automatic Detection 
+of
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 498--499
+\T2A/cmr/m/n/10.95 the Modified Seed Based Region Growing
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 498--499
+\T2A/cmr/m/n/10.95 Technique // Lecture Notes in Computer
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 498--499
+\T2A/cmr/m/n/10.95 Bioinformatics). 2005. Vol. 3682 LNAI. P.
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 501--502
+\T2A/cmr/m/n/10.95 Nodules in Thoracic CT Scans: A Region
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 501--502
+\T2A/cmr/m/n/10.95 Growing Approach // IEEE Trans. Med.
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 510--511
+[]\T2A/cmr/m/it/10.95 Duong T.H., Hoberock L.L. \T2A/cmr/m/n/10.95 DUHO image
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 510--511
+\T2A/cmr/m/n/10.95 on superpixels // 2018 IEEE 8th Annual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[]\T2A/cmr/m/it/10.95 Saxen F., Al-Hamadi A. \T2A/cmr/m/n/10.95 Superpixels
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+\T2A/cmr/m/n/10.95 for Skin Segmentation // Workshop
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 516--517
+[]\T2A/cmr/m/it/10.95 Ren X., Malik J. \T2A/cmr/m/n/10.95 Learning a classifica
+tion
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 516--517
+\T2A/cmr/m/n/10.95 model for segmentation // Proceedings of
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 519--520
+\T2A/cmr/m/n/10.95 to State-of-the-Art Superpixel Methods //
+ []
+
+[14]
+Underfull \hbox (badness 1590) in paragraph at lines 525--526
+[]\T2A/cmr/m/it/10.95 Cheng J. et al. \T2A/cmr/m/n/10.95 Enhanced Performance o
+f
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+\T2A/cmr/m/n/10.95 Segmentation Based on Spatiotemporal
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 532--533
+\T2A/cmr/m/n/10.95 Cine Cardiac Magnetic Resonance Imaging
+ []
+
+[15] (SPPS.aux) ) 
+Here is how much of TeX's memory you used:
+ 5708 strings out of 492895
+ 84584 string characters out of 3121400
+ 176928 words of memory out of 3000000
+ 9459 multiletter control sequences out of 15000+200000
+ 27693 words of font info for 75 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,43p,2002b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fo
+nts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C:\Users\Viacheslav\AppData\Local\
+MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasl1095.pk> <C:\Users\Viacheslav\A
+ppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users
+\Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasl1200.
+pk> <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\lati1200.pk> <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Viacheslav\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Viacheslav\Ap
+pData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk> <C:\Users\
+Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasl0900.p
+k> <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\larm1095.pk> <C:\Users\Viacheslav\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\lati0900.pk><C:/Users/Viacheslav/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Viacheslav/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Viac
+heslav/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/Users/Viacheslav/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi6.pfb><C:/Users/Viacheslav/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Viacheslav/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Viacheslav/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
+rs/Viacheslav/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr6.pfb><C:/Users/Viacheslav/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb><C:/Users/Viacheslav/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Viacheslav/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Viacheslav
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on SPPS.pdf (15 pages, 6940413 bytes).
+PDF statistics:
+ 732 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+
